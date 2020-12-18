@@ -1,1 +1,1 @@
-# Image-Detector
+# DL-Project-For-Beginner
